@@ -1,0 +1,10 @@
+{
+	"name": "jquery",
+	"version": "1.8.1",
+	"moduleFiles": {
+		"index.js": true,
+		"webpackOptions.js": true,
+		"jquery.min.js": true,
+		"jquery.js": true
+	}
+}
