@@ -1,0 +1,8 @@
+{
+	"name": "jquery",
+	"defaultVersion": "1.8.1",
+	"base": "..",
+	"versions": {
+		"1.8.1": "v1.8.1"
+	}
+}
